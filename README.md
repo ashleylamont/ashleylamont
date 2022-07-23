@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashley (She/They) 👋
 
-I'm currently studying Advanced Computing (Hons.) at The Australian National University and working as a Software Engineer at Taui Consulting.
+I'm currently studying IT at the Australian National University, working as a Network Engineer at Services Australia, and working as a Software Engineer at Taui Consulting.
 
 I also love to dabble and tinker with side projects, some of which are here on GitHub!
 

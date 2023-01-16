@@ -2,7 +2,7 @@
 
 I'm currently studying IT at the Australian National University, working as a SharePoint/Software Engineer at Services Australia, and working as a Software Engineer at Taui Consulting.
 
-I also love to dabble and tinker with side projects, some of which are here on GitHub!
+I also love to dabble and tinker with side projects, some of which are here on GitHub! (Though most of my best work is unfortunately not able to be shared onto GitHub, message me if you want to see some samples of it though, of the bits I'm allowed to share)
 
 [![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleylamont&count_private=true&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 

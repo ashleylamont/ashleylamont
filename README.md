@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashley (She/They) 👋
 
-I'm currently studying IT at the Australian National University, working as a Developer at Services Australia.
+I'm currently studying IT at the Australian National University, working as a Software Engineer at Services Australia and Atlassian.
 
 I also love to dabble and tinker with side projects, a (rather small) handful of which are here on GitHub!
 

@@ -1,3 +1,3 @@
 ### Hi there, I'm Ashley (She/Her) 👋
 
-I'm currently studying computing at the Australian National University, and working as a Software Engineer at Services Australia.
+I'm a software engineer at Atlassian. I've previously worked at Services Australia, and I studied computing at The Australian National University.
